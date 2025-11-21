@@ -30,6 +30,6 @@ Implement K-Nearest Neighbors (KNN) classifier on a suitable dataset and analyse
 
 ## Files
 - `AIML_Task6_KNN.ipynb` – Jupyter Notebook with full implementation.
-- `Iris.csv` – Dataset file (if included).
+- `Iris.csv` – Dataset file .
 - `README.md` – Project description.
 
